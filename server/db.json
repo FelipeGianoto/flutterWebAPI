@@ -1,0 +1,41 @@
+{
+  "learnhttp": {},
+  "journals": [
+    {
+      "id": "e1196970-38c0-11ef-a225-97ef3ae65024",
+      "content": "Hoje foi Domingo",
+      "created_at": "2024-06-23 22:17:14.773305",
+      "updated_at": "2024-06-23 22:17:14.773305"
+    },
+    {
+      "id": "62f9ac90-38c4-11ef-90bd-855809be79a4",
+      "content": "Foi uma bela segunda",
+      "created_at": "2024-07-01 22:40:43.611882",
+      "updated_at": "2024-07-01 22:40:43.611882"
+    },
+    {
+      "id": "575c1520-38c5-11ef-90bd-855809be79a4",
+      "content": "Segundou",
+      "created_at": "2024-06-24 22:40:43.611882",
+      "updated_at": "2024-06-24 22:40:43.611882"
+    },
+    {
+      "id": "5fdf30b0-38c5-11ef-90bd-855809be79a4",
+      "content": "Domingou",
+      "created_at": "2024-06-23 22:40:43.611882",
+      "updated_at": "2024-06-23 22:40:43.611882"
+    },
+    {
+      "id": "89493b60-38c7-11ef-894a-65daf8820310",
+      "content": "Dia 27",
+      "created_at": "2024-06-27 23:04:33.987096",
+      "updated_at": "2024-06-27 23:04:33.987096"
+    },
+    {
+      "id": "93132ed0-38c7-11ef-894a-65daf8820310",
+      "content": "Legal Terminei um Curso flutter web api",
+      "created_at": "2024-06-24 23:04:33.987096",
+      "updated_at": "2024-06-24 23:04:33.987096"
+    }
+  ]
+}
